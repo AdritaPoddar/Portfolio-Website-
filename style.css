@@ -301,7 +301,7 @@ a{
   .project-card{
     width: 90%;
     height: 550px;
-    background-image: url(../projects/project1.png.png);
+    background-image: url(./projects/project1.png.png);
     background-size: cover;
     
     position: relative;
